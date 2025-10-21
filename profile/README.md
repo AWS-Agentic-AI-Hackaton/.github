@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of ## Inspiration  
+## Inspiration  
 Managing cloud operations is often slow, repetitive, and error-prone. We wanted to **streamline these processes** and empower teams with a tool that automates routine tasks, reduces human error, and saves time.
 
 ---
@@ -56,5 +46,3 @@ Managing cloud operations is often slow, repetitive, and error-prone. We wanted 
 - Introduce **predictive insights** for cost optimization and operational efficiency.  
 - Enhance AI guidance to **proactively suggest improvements** and prevent issues before they occur.  
 - Make ReplyNow the **go-to platform for fully automated, intelligent Cloud Operations**.
-[Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
